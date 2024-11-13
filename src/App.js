@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { CountrySelection } from "./components/screens/CountrySelection";
+import { LanguageSelection } from "./components/screens/LanguageSelection";
+import { ConfirmationScreen } from "./components/screens/Confirm";
+import Container from "./components/ui/Container";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container
+      style={{
+        minHeight: "100vh",
+        width: "100vw",
+      }}
+    >
+      <CountrySelection onSelect={() => {}} />
+      {/* <LanguageSelection country={{}} onSelect={() => {}} />
+      <ConfirmationScreen country={{}} language={""} /> */}
+    </Container>
   );
-}
+};
 
 export default App;

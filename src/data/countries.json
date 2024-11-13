@@ -1,0 +1,77 @@
+[
+  {
+    "name": "United States",
+    "code": "US",
+    "languages_spoken": ["English", "Spanish", "Chinese"]
+  },
+  {
+    "name": "France",
+    "code": "FR",
+    "languages_spoken": ["French"]
+  },
+  {
+    "name": "India",
+    "code": "IN",
+    "languages_spoken": ["Hindi", "English", "Bengali", "Telugu"]
+  },
+  {
+    "name": "Brazil",
+    "code": "BR",
+    "languages_spoken": ["Portuguese"]
+  },
+  {
+    "name": "Nigeria",
+    "code": "NG",
+    "languages_spoken": ["English", "Hausa", "Yoruba", "Igbo"]
+  },
+  {
+    "name": "Canada",
+    "code": "CA",
+    "languages_spoken": ["English", "French"]
+  },
+  {
+    "name": "China",
+    "code": "CN",
+    "languages_spoken": ["Mandarin", "Cantonese", "Shanghainese", "Hokkien"]
+  },
+  {
+    "name": "Germany",
+    "code": "DE",
+    "languages_spoken": ["German"]
+  },
+  {
+    "name": "Japan",
+    "code": "JP",
+    "languages_spoken": ["Japanese"]
+  },
+  {
+    "name": "Russia",
+    "code": "RU",
+    "languages_spoken": ["Russian"]
+  },
+  {
+    "name": "Mexico",
+    "code": "MX",
+    "languages_spoken": ["Spanish"]
+  },
+  {
+    "name": "South Africa",
+    "code": "ZA",
+    "languages_spoken": ["Zulu", "Xhosa", "Afrikaans", "English", "Sesotho"]
+  },
+  {
+    "name": "Italy",
+    "code": "IT",
+    "languages_spoken": ["Italian"]
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "SA",
+    "languages_spoken": ["Arabic"]
+  },
+  {
+    "name": "Argentina",
+    "code": "AR",
+    "languages_spoken": ["Spanish"]
+  }
+]
